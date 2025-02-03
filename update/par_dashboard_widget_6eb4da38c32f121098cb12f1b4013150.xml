@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget">
+    <par_dashboard_widget action="INSERT_OR_UPDATE">
+        <canvas display_value="">20ff82f0c32f121098cb12f1b40131d0</canvas>
+        <component display_value="Filter">226449101138d0dff1abe0e1566c8b2a</component>
+        <component_props>{"filterId":"1ij6j1cqg62e53729028","filterName":"Label","filterComponentType":"singleselect","datasource":{"type":"indicator","payload":{"targetTable":"sys_choice","isChoiceType":true,"field":"sys_id","factsTable":"sys_choice","breakdown":"481e09a0c3eb121098cb12f1b40131ea"}},"targets":[{"type":"table","payload":{"field":"u_request_type","table":"x_58872_needit_needit","primaryKey":"sys_id"}},{"type":"indicator","payload":{"targetTable":"sys_choice","isChoiceType":true,"field":"sys_id","factsTable":"sys_choice","breakdown":"481e09a0c3eb121098cb12f1b40131ea"}}],"defaultSelectedItems":[],"defaultSelectedDateRange":{"range":""},"dateFilterView":"calendar-reldates","sort":"ASC","filterElementType":"pill","isShowSelectedValueInPill":true,"filterElementLayout":"vertical","enableClearFilter":true,"primaryActionLabel":"Apply","maxElements":500,"filterConfigurations":"@state.parFilters","cascadeScope":"6cff82f0c32f121098cb12f1b40131cc","isDashboard":true,"id":"targets","value":[{"type":"table","payload":{"field":"u_request_type","table":"x_58872_needit_needit","primaryKey":"sys_id"}},{"type":"indicator","payload":{"targetTable":"sys_choice","isChoiceType":true,"field":"sys_id","factsTable":"sys_choice","breakdown":"481e09a0c3eb121098cb12f1b40131ea"}}],"noDebounce":true,"propLabel":"Data to filter"}</component_props>
+        <h>19</h>
+        <name/>
+        <stored_component/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-03 19:03:50</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>6eb4da38c32f121098cb12f1b4013150</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>par_dashboard_widget_6eb4da38c32f121098cb12f1b4013150</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-03 19:03:50</sys_updated_on>
+        <visualization/>
+        <w>14</w>
+        <widget_props/>
+        <x>33</x>
+        <y>0</y>
+    </par_dashboard_widget>
+</record_update>
